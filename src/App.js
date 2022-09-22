@@ -35,7 +35,7 @@ class App extends Component{
 
     
 
-    const{busca, odas} = this.state;
+    const{odas} = this.state;
 
     return (
 
